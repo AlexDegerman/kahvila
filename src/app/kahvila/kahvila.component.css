@@ -1,0 +1,14 @@
+button {
+  background-color: lightblue;
+  margin-right: 1rem;
+}
+.flex {
+display: flex;
+flex-direction: column;
+width:500px;
+
+}
+input {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
